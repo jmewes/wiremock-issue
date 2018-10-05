@@ -7,7 +7,7 @@ See https://github.com/tomakehurst/wiremock/issues/1007 for details.
 
 ## Reproduce the problem
 
-In order to reproduce the problem, run the [MultipartStubTest](#).
+In order to reproduce the problem, run the [MultipartStubTest](https://github.com/jmewes/wiremock-issue-1007/blob/master/src/test/java/com/example/wiremockissue/MultipartStubTest.java).
 
 ```
 git clone https://github.com/jmewes/wiremock-issue.git
