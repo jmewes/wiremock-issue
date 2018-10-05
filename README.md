@@ -1,6 +1,6 @@
 # Problem with Multipart Stub Test
 
-This repo reproduced an issue which occurs due to incompatibilities between the Jetty version required by Wiremock
+This repo reproduces an issue which occurs due to incompatibilities between the Jetty version required by Wiremock
 and the Jetty version delivered by Spring Boot 2.
 
 See https://github.com/tomakehurst/wiremock/issues/1007 for details.
